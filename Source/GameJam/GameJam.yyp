@@ -27,6 +27,7 @@
     {"id":{"name":"O_Lever","path":"objects/O_Lever/O_Lever.yy",},"order":4,},
     {"id":{"name":"S_LeverStopper","path":"sprites/S_LeverStopper/S_LeverStopper.yy",},"order":5,},
     {"id":{"name":"O_Block","path":"objects/O_Block/O_Block.yy",},"order":0,},
+    {"id":{"name":"S_Volume","path":"sprites/S_Volume/S_Volume.yy",},"order":13,},
     {"id":{"name":"O_RampLeft","path":"objects/O_RampLeft/O_RampLeft.yy",},"order":4,},
     {"id":{"name":"S_MansionBackground","path":"sprites/S_MansionBackground/S_MansionBackground.yy",},"order":5,},
     {"id":{"name":"S_BaseTileset","path":"sprites/S_BaseTileset/S_BaseTileset.yy",},"order":0,},

@@ -14,4 +14,5 @@ global.Hasan = 1;
 global.maxHeight = 30000;
 global.canPlayCrumple = true;
 
+
 global.nearest = instance_nearest(x,y, O_Character);

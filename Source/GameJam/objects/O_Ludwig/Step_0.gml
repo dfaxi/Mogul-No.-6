@@ -19,6 +19,7 @@ hspeed = clamp(hspeed, -6, 6);
 vspeed = clamp(vspeed, -7, 10);
 
 //movement
+if global.control == true {
 
 if global.isSliding == false && global.isCrumpled == false{
 	if Left == true{
@@ -196,3 +197,6 @@ if global.isCrumpled == true {
 		}
 	}
 }
+
+}
+
