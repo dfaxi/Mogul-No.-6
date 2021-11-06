@@ -15,12 +15,15 @@ if options == true {
 	draw_set_color(c_white);
 	draw_text(x + 200, y + 400, "Volume");
 	draw_set_font(font0);
-	draw_text(x + 400, y + 435, "'PAGE UP' and 'PAGE DOWN'");
+	
 	draw_rectangle(x + 100, y + 500, x + 700, y + 510, true);
 	draw_sprite(S_Volume, 0, volumeSpot, y + 505);
 	draw_set_font(Font2);
 	draw_text(x + 200, y + 600, "Save and Quit");
 	draw_sprite(S_LudIdle, 0, x + 100, spot);
+		draw_text(x + 200, y + 800, "Controls");
+			draw_set_font(font0);
+	draw_text(x + 100, y + 900, "a,d or left, right = run space = jump");
 }
 
 
